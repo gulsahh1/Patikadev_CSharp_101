@@ -1,0 +1,5 @@
+C:\VSCodeCSharp\console-programlama\obj\Debug\net6.0\console-programlama.csproj.AssemblyReference.cache
+C:\VSCodeCSharp\console-programlama\obj\Debug\net6.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeCSharp\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfoInputs.cache
+C:\VSCodeCSharp\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfo.cs
+C:\VSCodeCSharp\console-programlama\obj\Debug\net6.0\console-programlama.csproj.CoreCompileInputs.cache
